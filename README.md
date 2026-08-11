@@ -41,3 +41,21 @@ Through this project, I practiced:
 Project Status
 
 Completed ✅
+
+## Screenshots
+
+### full program
+![Full Program](bms-1.png)
+![Full Program](bms-2.png)
+![Full Program](bms-3.png)
+![Full Program](bms-4.png)
+![Full Program](bms-5.png)
+![Full Program](bms-6.png)
+![Full Program](bms-7.png)
+
+
+
+### View Students
+![View Students](bms.png)
+
+
